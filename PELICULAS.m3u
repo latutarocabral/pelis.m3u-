@@ -1,5 +1,34 @@
 # pelis.m3u-
 La wea
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://los40mx00.epimg.net/especiales/depelicula/un-lugar-en-silencio-parte-2/assets/img/intro3.png",un lugar en silencio PARTE 2
-https://861495947.tapecontent.net/radosgw/xrR7areemBUve0/OCZapXoXLPmUd0xiaIvr0BOLQUOcw2z8oP1cNLge4mL1w0TYd19QkhB8DGSZBk5Dm69tYNA3ogrJvzvxRKaZhrfK-lc2limhD4Wir_WNem6If6ZalzViLnVXL-gXLXSxzOH7SL9SSCeXzEEm5dmz-95wpYJReq98fjq0qPvYHDA0GqTMx8TamQ-Job4NGl6QmYtA4-JGqk7R3cLUodZaiH1SupgqyC1nvSMsS4qmUm8IiQPAiBwXJYGnGgzioOQZH3VVXesYY9GldCmU-M9peQ6kc1Rk7d1MY9kUUEkHwPYiQWcSmYzrbOghQ_Zo-uWX5QOPcc2epKqMZ4kf/a0477a05-7c20-4166-b492-7b9f6136164c-7a64da12-3ad6-416b-8cb8-970c97d77738.mp4?stream=1
+#EXTINF:-1tvg-logo"https://www.televall.online/images/sony-cine.jpg",
+http://23.148.145.49:25461/live/televall/HalitWz6RJ/200_.m3u8
+#EXTINF:- =1tvg-logo"https://www.televall.online/images/golden-hd.png",
+http://23.148.145.49:25461/live/televall/HalitWz6RJ/207_.m3u8
+#EXTINF:- =1tvg-logo"https://www.televall.online/images/golden-edge.png",
+http://23.148.145.49:25461/live/televall/HalitWz6RJ/208_.m3u8
+#EXTINF:- =1tvg-logo"https://www.televall.online/images/golden-plus.png",
+http://23.148.145.49:25461/live/televall/HalitWz6RJ/209_.m3u8
+#EXTINF:- =1tvg-logo"https://www.televall.online/images/golden-premier-hd.png",
+http://23.148.145.49:25461/live/televall/HalitWz6RJ/211_.m3u8
+#EXTINF:- =1tvg-logo"https://www.televall.online/images/hbo.jpg",
+http://23.148.145.49:25461/live/televall/HalitWz6RJ/212_.m3u8
+#EXTINF:- =1tvg-logo"https://www.televall.online/images/hbo-2.png",
+http://23.148.145.49:25461/live/televall/HalitWz6RJ/213_.m3u8
+#EXTINF:- =1tvg-logo"https://www.televall.online/images/hboplus.jpg",
+http://23.148.145.49:25461/live/televall/HalitWz6RJ/214_.m3u8
+#EXTINF:- =1tvg-logo"https://www.televall.online/images/hbo-family.png",
+http://23.148.145.49:25461/live/televall/HalitWz6RJ/215_.m3u8
+#EXTINF:- =1tvg-logo"https://www.televall.online/images/hbo-family-hd.png",
+http://23.148.145.49:25461/live/televall/HalitWz6RJ/216_.m3u8
+#EXTINF:- =1tvg-logo"https://www.televall.online/images/hbo-pop.png",
+http://23.148.145.49:25461/live/televall/HalitWz6RJ/217_.m3u8
+#EXTINF:- =1tvg-logo"https://www.televall.online/images/hbo-signature.png",
+http://23.148.145.49:25461/live/televall/HalitWz6RJ/218_.m3u8
+#EXTINF:- =1tvg-logo"https://www.televall.online/images/hbo-xtreme.png",
+http://23.148.145.49:25461/live/televall/HalitWz6RJ/219_.m3u8
+#EXTINF:- =1tvg-logo"https://www.televall.online/images/star-ch.jpg",
+http://23.148.145.49:25461/live/televall/HalitWz6RJ/205_.m3u8
+#EXTINF:- =1tvg-logo"https://www.televall.online/images/multipremier.png",
+http://23.148.145.49:25461/live/televall/HalitWz6RJ/220_.m3u8
+
