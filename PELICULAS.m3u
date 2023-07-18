@@ -1,36 +1,51 @@
-# pelis.m3u-
-La wea
 #EXTM3U
-#EXTINF:-1,
-http://23.148.145.49:25461/live/televall/HalitWz6RJ/200_.m3u8
-#EXTINF:-1,
-http://23.148.145.49:25461/live/televall/HalitWz6RJ/207_.m3u8
-#EXTINF:-1,
-http://23.148.145.49:25461/live/televall/HalitWz6RJ/208_.m3u8
-#EXTINF:-1,
-http://23.148.145.49:25461/live/televall/HalitWz6RJ/209_.m3u8
-#EXTINF:-1,
-http://23.148.145.49:25461/live/televall/HalitWz6RJ/211_.m3u8
-#EXTINF:-1,
-http://23.148.145.49:25461/live/televall/HalitWz6RJ/212_.m3u8
-#EXTINF:-1,
-http://23.148.145.49:25461/live/televall/HalitWz6RJ/213_.m3u8
-#EXTINF:-1,
-http://23.148.145.49:25461/live/televall/HalitWz6RJ/214_.m3u8
-#EXTINF:-1,
-http://23.148.145.49:25461/live/televall/HalitWz6RJ/215_.m3u8
-#EXTINF:-1,
-http://23.148.145.49:25461/live/televall/HalitWz6RJ/216_.m3u8
-#EXTINF:-1,
-http://23.148.145.49:25461/live/televall/HalitWz6RJ/217_.m3u8
-#EXTINF:-1,
-http://23.148.145.49:25461/live/televall/HalitWz6RJ/218_.m3u8
-#EXTINF:-1,
-http://23.148.145.49:25461/live/televall/HalitWz6RJ/219_.m3u8
-#EXTINF:-1,
-http://23.148.145.49:25461/live/televall/HalitWz6RJ/205_.m3u8
-#EXTINF:-1,
-http://23.148.145.49:25461/live/televall/HalitWz6RJ/220_.m3u8
-#EXTINF:-1,
-https://redirect.veoh.com/flash/p/2/v142272794C7rMPQyJ/h142272794.mp4?ct=fbd18781e8be2111e4998d4c269a401d812b56b17adbbc09
 
+#EXTINF:-1 group-title="", película HBO MAX,
+#EXTINF:-1tvg-logo="", la extorcion 
+https://redirect.veoh.com/flash/p/2/v142274915ppYARbMn/h142274915.mp4?ct=d0c1625ec13bd3d72b189ac6b09ed4550a526ab159c76200
+#EXTINF:-1 tvg-logo="",tenet
+https://redirect.veoh.com/flash/p/2/v142278429ckwswnrb/h142278429.mp4?ct=e01b3fe7e671c22586ebfba6dec6591a74d611b241333fea
+#EXTINF:-1 tvg-logo="",dune
+https://redirect.veoh.com/flash/p/2/v142278910jgNjM6ER/h142278910.mp4?ct=7df3c8536bfc14e9f21e438dd76269ec6aebd509520a1537
+#EXTINF:-1 tvg-logo="",el hombre del norte 
+https://redirect.veoh.com/flash/p/2/v142278608jegjpMJ3/h142278608.mp4?ct=361da40f460a41da5847d87e43ad9cfe37c2f59dbef52197
+#EXTINF:-1 tvg-logo="",65  al borde de la extinción 
+https://redirect.veoh.com/flash/p/2/v142274917b9xA6ZSW/h142274917.mp4?ct=dfa3e5db8271dc37fc49c3595e9910ab056ed405a7ca1100
+#EXTINF:-1 tvg-logo="",primer amanecer 
+https://seed132.bitchute.com/EqSN60K7OZdt/0WgG8iAdSglS.mp4
+#EXTINF:-1 tvg-logo="", hermosa 
+https://seed171.bitchute.com/EqSN60K7OZdt/aGpUORJn7IH4.mp4
+#EXTINF:-1 tvg-logo="",de amor y otras adiciones 
+https://redirect.veoh.com/flash/p/2/v142279187GptFsyKz/h142279187.mp4?ct=dd68765af3b0a90371189b6b336b2d378e1678a8f482c7b8
+#EXTINF:-1 tvg-logo="",la chica salvaje
+https://seed132.bitchute.com/EqSN60K7OZdt/dtYtSVpMErtw.mp4
+#EXTINF:-1 tvg-logo="",no te preocupes cariño 
+https://seed128.bitchute.com/EqSN60K7OZdt/sBK74m3GROBQ.mp4
+#EXTINF:-1 tvg-logo="",la casa del lago
+https://zb10-7gsop1v78.bitchute.com/EqSN60K7OZdt/ypoF7selN1nv.mp4
+#EXTINF:-1 tvg-logo="", definitivamente tal vez
+https://seed171.bitchute.com/EqSN60K7OZdt/HERmvne4pW9u.mp4
+#EXTINF:-1 tvg-logo="",cartas de julieta
+https://zggg98sgwbg1gh.bitchute.com/EqSN60K7OZdt/a9hdQ9ZoRxaW.mp4
+#EXTINF:-1 tvg-logo="",cuendo te encuentre 
+https://seed132.bitchute.com/EqSN60K7OZdt/HJZOAavh4Fh8.mp4
+#EXTINF:-1 tvg-logo="",te amare por siempre 
+https://seed122.bitchute.com/EqSN60K7OZdt/6W9AQWb4FzUH.mp4
+#EXTINF:-1 tvg-logo="", encuentro 
+https://seed306.bitchute.com/EqSN60K7OZdt/e4y3BtcKsE3M.mp4
+#EXTINF:-1 tvg-logo="", el secreto 
+https://seed305.bitchute.com/EqSN60K7OZdt/SQHPab6VxHOC.mp4
+#EXTINF:-1 tvg-logo="",alfer aquí empieza 
+https://seed171.bitchute.com/EqSN60K7OZdt/FlG5K0LZxHQa.mp4
+#EXTINF:-1 tvg-logo="", animales fantásticos 
+https://seed163.bitchute.com/EqSN60K7OZdt/hOqhEuA6p2jw.mp4
+#EXTINF:-1tvg-logo="", frío en los huesos
+https://zn21g5kls-n995.bitchute.com/EqSN60K7OZdt/dbYW5Dkf8vHY.mp4
+#EXTINF:-1 tvg-logo="",el teléfono negro
+https://seed128.bitchute.com/EqSN60K7OZdt/FQIbapLuKbj8.mp4
+#EXTINF:-1 tvg-logo="",NOP
+https://seed128.bitchute.com/EqSN60K7OZdt/FQIbapLuKbj8.mp4
+#EXTINF:-1 tvg-logo="",emili la criminal
+https://seed307.bitchute.com/EqSN60K7OZdt/0EhNQrQCbi7L.mp4
+#EXTINF:-1tvg-logo="",Bukeker
+https://seed125.bitchute.com/EqSN60K7OZdt/xB3WMMA5ecWm.mp4 
